@@ -476,7 +476,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
@@ -509,6 +509,22 @@ section {
   height: 10px;
   transition: 0.9s;
   background-color: #34b7a7;
+}
+
+.skills .skills-title {
+  font-size: 26px;
+  font-weight: 400;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #222222;
+}
+
+.skills .skills-item ul li {
+  padding-bottom: 10px;
+  padding-left: 0px;
+  margin-left: -1.5em;
+  list-style-type: none
+
 }
 
 /*--------------------------------------------------------------
