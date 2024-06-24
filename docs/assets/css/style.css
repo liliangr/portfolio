@@ -211,7 +211,7 @@ h6 {
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
   color: #fff;
-  background: #34b7a7;
+  background: #AE5159 /*#34b7a7*/;
 }
 
 .nav-menu a:hover span,
@@ -284,6 +284,8 @@ h6 {
     padding-left: 160px;
   }
 }
+
+
 
 #hero:before {
   content: "";
@@ -389,7 +391,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #34b7a7;
+  background: #AE5159 /*#34b7a7*/;
   bottom: 0;
   left: calc(50% - 20px);
 }
