@@ -43,7 +43,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #34b7a7;
+  background: #b54a82 /*#34b7a7*/;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -57,7 +57,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #0678e3;
+  background: #C46E9B /*#0678e3*/;
   color: #fff;
 }
 
@@ -211,7 +211,7 @@ h6 {
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
   color: #fff;
-  background: #ae5168 /*#34b7a7*/;
+  background: #b54a82 /*#34b7a7*/;
 }
 
 .nav-menu a:hover span,
@@ -543,7 +543,7 @@ section {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #ad51ad /*#34b7a7*/;
+  border-left: 2px solid #b54a82  /*#34b7a7*/;
   position: relative;
 }
 
@@ -587,7 +587,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #ad51ad /*#34b7a7*/;
+  border: 2px solid #b54a82  /*#34b7a7*/;
 }
 
 /*--------------------------------------------------------------
@@ -622,7 +622,7 @@ section {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  color: #ae5196 /*#34b7a7*/;
+  color: #b54a82 /*#34b7a7*/;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -1038,7 +1038,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #34b7a7;
+  color: #b54a82 /*#34b7a7*/;
   float: left;
   width: 44px;
   height: 44px;
@@ -1073,7 +1073,7 @@ section {
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #34b7a7;
+  background: #b54a82 /*#34b7a7*/;
   color: #fff;
 }
 
@@ -1200,7 +1200,7 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #34b7a7;
+  background: #b54a82 /*#34b7a7*/;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1213,7 +1213,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #0678e3;
+  background:#b54a82 /*#0678e3*/;
   color: #fff;
   text-decoration: none;
 }
