@@ -596,6 +596,10 @@ section {
   font-weight: 600;
 }
 
+.resume .resume-item a:hover {
+  text-decoration: underline;
+}
+
 .resume .resume-item span {
   line-height: 18px;
   color: #cc438b;
