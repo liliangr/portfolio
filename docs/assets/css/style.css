@@ -860,6 +860,17 @@ section {
   color: #a8b2d1
 }
 
+.portfolio-details .portfolio-description h5 {
+  font-size: 16px;
+  background: rgba(245, 203, 225, .2);
+  padding: 5px 15px;
+  display: inline-block;
+  font-weight: 600;
+  margin-bottom: 10px;
+  color: #cc438b;
+  border-radius: 9999px;
+}
+
 .portfolio-details .portfolio-description p {
   padding: 0;
   color: #ccd6f6
