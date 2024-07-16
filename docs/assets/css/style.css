@@ -830,16 +830,23 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   border-bottom: 1px solid #eee;
+  color: #e6eaf5
 }
 
 .portfolio-details .portfolio-info ul {
   list-style: none;
   padding: 0;
   font-size: 15px;
+  color: #ccd6f6
 }
 
 .portfolio-details .portfolio-info ul li+li {
   margin-top: 10px;
+  color: #ccd6f6
+}
+
+.portfolio-details .portfolio-info ul li a {
+  color: #cc438b
 }
 
 .portfolio-details .portfolio-description {
@@ -850,10 +857,12 @@ section {
   font-size: 26px;
   font-weight: 700;
   margin-bottom: 20px;
+  color: #a8b2d1
 }
 
 .portfolio-details .portfolio-description p {
   padding: 0;
+  color: #ccd6f6
 }
 
 /*--------------------------------------------------------------
