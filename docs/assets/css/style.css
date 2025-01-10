@@ -743,6 +743,11 @@ section {
   color: #45505b;
   font-weight: 600;
 }
+.portfolio .portfolio-wrap .portfolio-info h7 {
+  font-size: 16px;
+  color: #45505b;
+  font-weight: 500;
+}
 
 .portfolio .portfolio-wrap .portfolio-info p {
   color: #45505b;
